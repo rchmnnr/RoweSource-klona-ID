@@ -1,32 +1,32 @@
 gText_FlyingTaxi_Intro::
-    .string "Hello. I pilot one of the\n"
-    .string "Flying Taxis.\p"
-    .string "Do you need a lift?$"
+    .string "Assalamualaikum, ini jasa Taksi Terbang\n"
+    .string "Kakak mau diantar? Bukan naik Buraq.\p"
+    .string "Tapi ngaji bareng dulu Surat Al-Isra.$"
 
 gText_FlyingTaxi_WhereDoYouWantToGo::
-    .string "Where do you want to go?$"
+    .string "Jadi kakak tujuannya ke mana?$"
 
 gText_FlyingTaxi_Goodbye::
-    .string "Keep us in mind the next time\n"
-    .string "you need a ride!$"
+    .string "Jangan ragu pakai jasa kami di kesempatan berikutnya.\n"
+    .string "Selalu ada jalan menghafal Al-Isra!$"
 	
 //Gym Items
 	Special_Gym_Text_Explain_Amulet_Coin:
-	.string "This item is an Amulet Coin\p"
-	.string "Its an Item that must be\n"
-	.string "held by your First Pokémon.\p"
-	.string "It doubles the money you get\n"
-	.string "from a Fight with a Trainer.$"
+	.string "Ini namanya Amulet Coin\p"
+	.string "Pokémon pertama dalam rombongan kamu\n"
+	.string "jika mengenakan benda ini.\p"
+	.string "Akan ditandai sebagai kaum dhuafa,\n"
+	.string "sehingga berhak dapat banyak infaq.$"
 	
 	Special_Gym_Text_Explain_Item_Finder:
-	.string "This item is the Item Finder.\p"
-	.string "This will help you find Hidden\n"
-	.string "Items while you travel.$"
+	.string "Ini namanya Item Finder.\p"
+	.string "Kamu akan mudah untuk menemukan benda ghoib\n"
+	.string "tersembunyi, jika memakai benda ini.$"
 	
 	Special_Gym_Text_Explain_Good_Rod:
-	.string "This item is the Good Rod.\n"
-	.string "You can use it to find stronger\l"
-	.string "Pokémon than the Old Rod.$"
+	.string "Ini kail pancing tipe Good Rod.\n"
+	.string "Spesies lebih kuat akan bisa ter-\l"
+	.string "tangkap oleh kail ini.$"
 	
 	Special_Gym_Text_Explain_Oval_Charm:
 	.string "This item is an Oval Charm.\p"
