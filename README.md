@@ -1,5 +1,7 @@
 # Pokémon R.O.W.E
 
+Eksperimen saya untuk menerjemahkan ROWE ke dalam Bahasa Indonesia.
+
 This is a the source code for the game Pokemon R.O.W.E.
 The current source builds the update 1.9.4 Source Edition
 
